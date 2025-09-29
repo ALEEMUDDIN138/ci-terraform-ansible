@@ -169,7 +169,7 @@ Verified connectivity via curl and browser.
 
 🙌 Author
 
-👤 Mohammad Imaran Khan
+👤 Mohammad Aleem uddin
 💼 DevOps Engineer
 🌐 Skills: Terraform | Ansible | AWS | Linux | Nginx | Netdata | Jenkins | Kubernetes | Docker and so on....
 
